@@ -4,7 +4,7 @@
 
 # 1_ Bar chart - for categorical data comparison
 
-- For values like Gender(M/F), Region(East/West), Election Candidates(Trump/Henry/Biden) (Fixed categorical values)
+- For values like Gender(M/F), Region(East/West), Election Candidates(Trump/Henry/Biden) (Fixed categorical values), Months (Jan - Dec)
 - 1_ **Vertical Bar chart**   - **Column Charts**, best for categorical comparison (Visually looks good if categories are less than equal to 7)
 - 2_ **Horizontal Bar chart** - best for **Ranking Comparison** (Visually looks good if categories are greater than equal to 7)
 - 3_ **Stacked Bar Chart**    - When further categorizing the bars 
