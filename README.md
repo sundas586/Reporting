@@ -54,6 +54,17 @@
 
 ![image](https://github.com/user-attachments/assets/df2278f4-4aa3-45ac-a473-08bc322b3b83)
 
+# Some other graphs
+
+![image](https://github.com/user-attachments/assets/247887a8-5d14-4978-9b7f-37775109260d)
+![image](https://github.com/user-attachments/assets/a83349fa-54fd-4f3d-ab8f-6a7202d2c38e)
+![image](https://github.com/user-attachments/assets/6bdffae3-6313-4d0d-9357-fc448024acc1)
+![image](https://github.com/user-attachments/assets/061e7f1e-1b9f-4687-9dfd-d861ed32d4ba)
+
+
+
+
+
 
 
   
