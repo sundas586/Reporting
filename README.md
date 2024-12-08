@@ -4,6 +4,7 @@
 
 # 1_ Bar chart - for categorical data comparison
 
+- Shows frequency of Categories i.e [ Male (45%), Female (55%) ]]
 - For values like Gender(M/F), Region(East/West), Election Candidates(Trump/Henry/Biden) (Fixed categorical values), Months (Jan - Dec)
 - 1_ **Vertical Bar chart**   - **Column Charts**, best for categorical comparison (Visually looks good if categories are less than equal to 7)
 - 2_ **Horizontal Bar chart** - best for **Ranking Comparison** (Visually looks good if categories are greater than equal to 7)
@@ -20,10 +21,13 @@
 # 2_ Histogram - a bar chart for continuous values data comparison
 
 - For values like time, age, weight (Not fixed, vary)
+- Shows frequency of intervals/ranges [i.e 1-10 (35%), 11-20 (2%), 21-30 (18%), .., 91-100 (3%) ]
   ![image](https://github.com/user-attachments/assets/b6de8a58-17c9-4900-81e3-92c1d586fb16)
   ![image](https://github.com/user-attachments/assets/4c9303c3-e0c4-44df-8fe7-0a4e8769b84d)
   ![image](https://github.com/user-attachments/assets/4449d359-3156-4834-8741-cb1236e42721)
   ![image](https://github.com/user-attachments/assets/1530f4af-00aa-4109-bdc7-3e6da584630c)
+
+  
 
 # 3_ Pie Chart
 
@@ -51,8 +55,10 @@
 # 5_ Line Chart - Trend analyses over TIME
 
 - To Anaylze the **pattern of change over time**
+- Line chart has peaks and dips
 
 ![image](https://github.com/user-attachments/assets/df2278f4-4aa3-45ac-a473-08bc322b3b83)
+
 
 # Some other graphs
 
@@ -61,6 +67,26 @@
 ![image](https://github.com/user-attachments/assets/6bdffae3-6313-4d0d-9357-fc448024acc1)
 ![image](https://github.com/user-attachments/assets/061e7f1e-1b9f-4687-9dfd-d861ed32d4ba)
 
+# What is Plateau ?
+
+- When zero to slight change only <br/>
+  ![image](https://github.com/user-attachments/assets/fdd29ecc-b4a0-481f-b92c-2e0ad6cc9196)
+  ![image](https://github.com/user-attachments/assets/ac451b25-582a-4d01-953a-74b8f3595fd2)
+
+# Fluctuate vs Hover vs Remains Unchanged
+
+- 1st_ Fluctuate ( full ups and downs in values)
+- 2nd_ Hover (Minor change in values)
+- 3rd_ Remains Unchanged (almost no change)
+
+  ![image](https://github.com/user-attachments/assets/250420ad-8659-488d-be81-5dea5cadf336)
+
+  
+# Range of scaling
+
+- It should have both the min and the max value
+- like if the min value is 20 and the max value is 140 then range scaling should be like :
+- 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140
 
 
 
