@@ -39,6 +39,8 @@
      ![image](https://github.com/user-attachments/assets/31bca9e8-e9aa-4cab-b497-0a056e14858a)
      ![image](https://github.com/user-attachments/assets/0112fd38-5df7-480d-9d5d-3718d3db78c9)
      ![image](https://github.com/user-attachments/assets/896abc22-28b3-43d6-bde9-faae6a4a7903)
+     ![image](https://github.com/user-attachments/assets/e200a68a-a9a9-4a35-8927-2c37e8387edb)
+
 
 
 # 4_ Scatter plot
@@ -87,6 +89,21 @@
 - It should have both the min and the max value
 - like if the min value is 20 and the max value is 140 then range scaling should be like :
 - 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140
+
+
+# Drill Down report
+
+![image](https://github.com/user-attachments/assets/cf5d24fc-1728-4e79-81d5-28025ec23949)
+![image](https://github.com/user-attachments/assets/32a00f17-1171-451b-b903-822ae7cc4e50)
+
+# 5 COMMON COMPARISONS
+
+- Time
+- People
+- Places
+- Things
+- Process
+
 
 
 
