@@ -36,16 +36,25 @@
      ![image](https://github.com/user-attachments/assets/0112fd38-5df7-480d-9d5d-3718d3db78c9)
      ![image](https://github.com/user-attachments/assets/896abc22-28b3-43d6-bde9-faae6a4a7903)
 
+
 # 4_ Scatter plot
 
 - To Show:
-  - Correlation exists between 2 entities or not
-  - To analyze treand
-  - To Spot outliers
-  - For clustering trends of the similar records
+  - **Correlation** exists between 2 entities or not
+  - To Spot **outliers**
+  - For **clustering** trends of the similar records
+
+![image](https://github.com/user-attachments/assets/cb4b7718-f1f4-41a8-aab5-71b8eb9a003d)
+![image](https://github.com/user-attachments/assets/0b0c552a-0c81-4ddf-a74b-9310f7a9aa47)
 
 
-     ![image](https://github.com/user-attachments/assets/6de912c0-880a-4cdf-b092-dc1081a6c497)
+# 5_ Line Chart - Trend analyses over TIME
+
+- To Anaylze the **pattern of change over time**
+
+![image](https://github.com/user-attachments/assets/df2278f4-4aa3-45ac-a473-08bc322b3b83)
+
+
 
   
 
